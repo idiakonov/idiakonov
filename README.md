@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @idiakonov
-- 👀 I’m interested in Java Script, Automation, APIs
-- 🌱 I’m currently learning Cypress Automation 
+- 👀 I’m interested in Java Script, Automation, APIs 
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me igdiakonov@gmail.com
 
