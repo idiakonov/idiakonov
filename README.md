@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @idiakonov
-- 👀 I’m interested in Java Script, Automation, APIs 
-- 💞️ I’m looking to collaborate on Automation
-- 📫 How to reach me igdiakonov@gmail.com
-
-<!---
-idiakonov/idiakonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Ian 👋
+QA Automation Engineer specializing in serverless cloud architecture, AI/ML systems, and infrastructure-as-code testing. Passionate about building scalable, intelligent systems and continuous quality improvement.
